@@ -49,33 +49,22 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/bin/node">
-      <version-cache version="6.9.1" last-modified="1476919802000" />
+      <version-cache version="6.9.4" last-modified="1483661520000" />
+      <npm-package value="/usr/lib/node_modules/npm" />
     </local-interpreter>
   </component>
   <component name="RecentTaskRepositories">
     <YouTrack shared="false" url="https://modpreneur2.myjetbrains.com/youtrack">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
-      <password>dfc2dfcfdfd9dfc6dfc5df98df9adfdadfcbdf9cdf9edf8bdfc0dfcf</password>
+      <option name="defaultSearch" value="(Assignee: me )  or #{Code review} or #{Immediately Bug}  or #{QA (tests)} }" />
+      <password>dfccdfd8dfc3dfcfdfc4dfcedf98df9d</password>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
-      <username>kolek@modpreneur.com</username>
-    </YouTrack>
-    <YouTrack shared="false" url="http://modpreneur2.myjetbrains.com/youtrack">
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
-      <password>dfc2dfcfdfd9dfc6dfc5df98df9adfdadfcbdf9cdf9edf8bdfc0dfcf</password>
-      <option name="loginAnonymously" value="false" />
-      <option name="preferredCloseTaskState" />
-      <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="false" />
-      <option name="useHttpAuthentication" value="false" />
-      <option name="useProxy" value="false" />
-      <username>kolek@modpreneur.com</username>
+      <username>fiser@modpreneur.com</username>
     </YouTrack>
   </component>
 </application>
