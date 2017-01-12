@@ -1,0 +1,162 @@
+<templateSet group="Todo">
+  <template name="todoMartinKolek" value="// TODO @MartinKolek" description="Todo for Martin Kolek in Php and Js" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="todoGabrielBordovsky" value="// TODO @GabrielBordovsky " description="Todo for Gabriel Bordovsky in Php and Js" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="todoRichardBures" value="// TODO @RichardBures" description="Todo for Richard Bureš in Php and Js" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="todoMarekOmasta" value="// TODO @MarekOmasta" description="Todo for Marek Omasta in Php and Js" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="todoJakubFajkus" value="// TODO @JakubFajkus" description="Todo for Jakub fajkus in Php and Js" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="todoTomasJancar" value="// TODO @TomasJancar" description="Todo for Tomas Jancar in Php and Js" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="todoMartinKolek twig" value="{# TODO @MartinKolek #}" description="Todo for Martin Kolek in twig" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="todoMarekOmasta twig" value="{# TODO @MarekOmasta #}" description="Todo for Marek Omasta in twig" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="todoGabrielBordovsky twig" value="{# @GabrielBordovsky #} " description="Todo for Gabriel Bordovsky in twig" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="todoJakubFajkus twig" value="{# TODO @JakubFajkus #}" description="Todo for Jakub fajkus in twig" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="todoRichardBures twig" value="{# TODO @RichardBures #}" description="Todo for Richard Bureš in twig" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="todoTomasJancar twig" value="{# TODO @TomasJancar #}" description="Todo for Tomas Jancar in twig" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="todoMarekOmasta css" value="/* TODO @MarekOmasta */" description="Todo for Marek Omasta in css" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="todoMartinMatejka" value="// TODO @MartinMatejka" description="Todo for Martin Matejka in Php and Js" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="todoMartinMatejka twig" value="{# TODO @MartinMatejka #}" description="Todo for Martin Matejka in twig" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="todoZbynekFiser" value="// TODO @ZbynekFiser" description="Todo for Zbynek Fiser in Php and Js" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="todoZbynekFiser twig" value="{# TODO @ZbynekFiser #}" description="Todo for Zbynek Fiser in twig" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="todoZbynekFiser css" value="/* TODO @ZbynekFiser */" description="Todo for Zbynek Fiser in css" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="todoTomasJancar css" value="/* TODO @TomasJancar */" description="Todo for Tomas Jancar in css" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="todoRichardBures css" value="/* TODO @RichardBures */" description="Todo for Richard Bureš in css" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="todoMartinMatejka css" value="/* TODO @MartinMatejka */" description="Todo for Martin Matejka in css" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="todoMartinKolek css" value="/* TODO @MartinKolek */" description="Todo for Martin Kolek in css" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="todoJakubFajkus css" value="/* TODO @JakubFajkus */" description="Todo for Jakub fajkus in css" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="todoGabrielBordovsky css" value="/* @GabrielBordovsky */ " description="Todo for Gabriel Bordovsky in css" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="todoTomaSlancar" value="// TODO @TomasSlancar" description="Todo for Tomáš Slancar in Php and Js" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="todoTomasSlancar css" value="/* TODO @TomasSlancar */" description="Todo for Tomáš Slancar in css" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="todoTomasSlancar twig" value="{# TODO @TomasSlancar #}" description="Todo for Tomáš Slancar in twig" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="todoMartinMikan" value="// TODO @MartinMikan" description="Todo for Martin Mikan in Php and Js" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="todoMartinMikan css" value="/* TODO @MartinMikan */" description="Todo for Martin Mikan in css" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="todoMartinMikan twig" value="{# TODO @MartinMikan #}" description="Todo for Martin Mikan in twig" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>

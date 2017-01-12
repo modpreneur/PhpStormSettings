@@ -1,0 +1,26 @@
+<application>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\@MartinKolek|\@Kolek" />
+    <pattern pattern="\@GabrielBordovsky|\@Bordovsky" />
+    <pattern pattern="\@RichardBures|\@Bures" />
+    <pattern pattern="\@JakubFajkus|\@Fajkus" />
+    <pattern pattern="\@DavidCzernin|\@Czernin" />
+    <filter name="MartinKolek">
+      <pattern index="2" />
+    </filter>
+    <filter name="Gabriel">
+      <pattern index="3" />
+    </filter>
+    <filter name="Richard">
+      <pattern index="4" />
+    </filter>
+    <filter name="Fikus">
+      <pattern index="5" />
+    </filter>
+    <filter name="David">
+      <pattern index="6" />
+    </filter>
+  </component>
+</application>
