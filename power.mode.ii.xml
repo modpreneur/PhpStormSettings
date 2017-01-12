@@ -1,0 +1,8 @@
+<application>
+  <component name="PowerModeII">
+    <option name="enabled" value="false" />
+    <option name="greenFrom" value="42" />
+    <option name="maxFlameSize" value="500" />
+    <option name="sparkSize" value="7" />
+  </component>
+</application>
